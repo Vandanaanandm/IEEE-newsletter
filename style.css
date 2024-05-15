@@ -1,0 +1,69 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f4f4;
+  margin:0;
+  padding: 0;
+  font-weight:normal;
+}
+.container{
+  max-width: 800px;
+	margin: 20px auto;
+	padding: 20px;
+	background-color: #e9ece7; /* White container background */
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1{
+  color: rgb(214, 76, 41);
+  text-align: center;
+  font-weight: bolder;
+  font-size: xx-large;
+}
+.intro{
+  color: #df5a0d;
+    text-align: justify;
+    line-height: 1.5;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:large ;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+.calltoaction{
+  color: #333331;
+  text-align: justify;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  line-height: 1.5;
+
+  
+
+}
+.procedure{
+  color: #181716;
+  text-align: justify;
+  line-height: 2.5;
+}
+
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  color: #d81616;
+  font-weight: bold;
+  background-color: #f4f805;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-align: justify;
+  text-decoration: none;
+}
+.button-link{
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: #e90505;
+  background-color: #007BFF;
+  text-align: justify;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
